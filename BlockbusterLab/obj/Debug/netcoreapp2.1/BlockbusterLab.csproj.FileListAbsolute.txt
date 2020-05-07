@@ -1,0 +1,11 @@
+C:\Users\James\Desktop\Bootcamp\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp2.1\BlockbusterLab.deps.json
+C:\Users\James\Desktop\Bootcamp\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp2.1\BlockbusterLab.runtimeconfig.json
+C:\Users\James\Desktop\Bootcamp\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp2.1\BlockbusterLab.runtimeconfig.dev.json
+C:\Users\James\Desktop\Bootcamp\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp2.1\BlockbusterLab.dll
+C:\Users\James\Desktop\Bootcamp\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp2.1\BlockbusterLab.pdb
+C:\Users\James\Desktop\Bootcamp\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp2.1\BlockbusterLab.csprojAssemblyReference.cache
+C:\Users\James\Desktop\Bootcamp\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp2.1\BlockbusterLab.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\Bootcamp\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp2.1\BlockbusterLab.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\Bootcamp\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp2.1\BlockbusterLab.AssemblyInfo.cs
+C:\Users\James\Desktop\Bootcamp\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp2.1\BlockbusterLab.dll
+C:\Users\James\Desktop\Bootcamp\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp2.1\BlockbusterLab.pdb
